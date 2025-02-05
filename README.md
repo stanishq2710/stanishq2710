@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**stanishq2710/stanishq2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">🚀 Tanishq Singh 🚀</h1>
 
 <p align="center">
