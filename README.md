@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **stanishq2710/stanishq2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🚀 **Rust Developer | AI Enthusiast | Blockchain & P2P Networking**
